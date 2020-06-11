@@ -35,7 +35,14 @@
     <Content Include="package.json" />
     <Content Include="public\stylesheets\main.css" />
     <Content Include="README.md" />
+    <Content Include="views\henry.pug">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="views\index.pug" />
+    <Content Include="views\header.pug" />
+    <Content Include="views\julie.pug">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="views\layout.pug" />
     <Content Include="views\error.pug" />
   </ItemGroup>
@@ -48,6 +55,21 @@
     <Folder Include="views\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="views\matthew.pug">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="views\mike.pug">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="views\stanley.pug">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="views\ursula.pug">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="views\yolanda.pug">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config" />
   </ItemGroup>
