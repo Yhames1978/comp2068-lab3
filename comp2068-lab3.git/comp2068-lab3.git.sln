@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "comp2068-lab3.git", "comp2068-lab3.git\comp2068-lab3.git.njsproj", "{D86B41B9-3DB7-4F51-A0DF-6389A313C081}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D86B41B9-3DB7-4F51-A0DF-6389A313C081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86B41B9-3DB7-4F51-A0DF-6389A313C081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86B41B9-3DB7-4F51-A0DF-6389A313C081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86B41B9-3DB7-4F51-A0DF-6389A313C081}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A8E6023-9ACB-4D6E-AF86-8C667614619C}
+	EndGlobalSection
+EndGlobal
